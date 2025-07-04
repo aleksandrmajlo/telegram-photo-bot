@@ -4,7 +4,7 @@
 
   2 - set Webhook Telegram
 
-  curl -F "url=https://telegram-photo-bot-9gnb.onrender.com/webhook" https://api.telegram.org/bot7811367207:AAH39vjyrr3mqz1dvBmgr25WBf9GpGat8LI/setWebhook
+  curl -F "url=https://7abc-212-30-36-154.ngrok-free.app/webhook" https://api.telegram.org/bot7811367207:AAH39vjyrr3mqz1dvBmgr25WBf9GpGat8LI/setWebhook
 
   3 -  cd  /Volumes/Hrad/Python/Bot
 
@@ -19,6 +19,7 @@
 1 - set Webhook Telegram
 
      curl -F "url=https://telegram-photo-bot-9gnb.onrender.com/webhook" https://api.telegram.org/bot7811367207:AAH39vjyrr3mqz1dvBmgr25WBf9GpGat8LI/setWebhook
+
 
 2 - git commit
      
